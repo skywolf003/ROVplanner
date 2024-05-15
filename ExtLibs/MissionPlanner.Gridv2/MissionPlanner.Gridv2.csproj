@@ -207,6 +207,9 @@
     <None Include="app.config" />
   </ItemGroup>
   <ItemGroup>
+    <PackageReference Include="WixToolset.Util.wixext" Version="5.0.0" />
+  </ItemGroup>
+  <ItemGroup>
     <Reference Update="System.Runtime.Serialization">
       <Private>false</Private>
     </Reference>

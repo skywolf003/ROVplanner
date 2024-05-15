@@ -16,6 +16,7 @@
     <PackageReference Include="SkiaSharp" Version="2.80.2" />
     <PackageReference Include="SkiaSharp.Views.Desktop.Common" Version="2.80.2" />
     <PackageReference Include="System.Drawing.Primitives" Version="4.3.0" />
+    <PackageReference Include="WixToolset.Util.wixext" Version="5.0.0" />
 
   </ItemGroup>
   <ItemGroup>

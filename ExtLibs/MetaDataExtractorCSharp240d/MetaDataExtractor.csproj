@@ -53,6 +53,10 @@
     <EmbeddedResource Include="resources\PentaxMarkernote.txt" />
     <EmbeddedResource Include="resources\SonyMarkernote.txt" />
   </ItemGroup>
+  
+  <ItemGroup>
+    <PackageReference Include="WixToolset.Util.wixext" Version="5.0.0" />
+  </ItemGroup>
   <ItemGroup>
     <None Update="exif.xslt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>

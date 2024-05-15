@@ -23,4 +23,8 @@
     <None Include="Compress\LzmaAlone\Properties\Settings.cs" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="WixToolset.Util.wixext" Version="5.0.0" />
+  </ItemGroup>
+
 </Project>

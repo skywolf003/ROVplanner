@@ -11,6 +11,10 @@
     <OutputType>Library</OutputType>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="WixToolset.Util.wixext" Version="5.0.0" />
+  </ItemGroup>
   <ItemGroup>
    <ProjectReference Include="..\DirectShowLib\DirectShowLib.csproj" />
   </ItemGroup>

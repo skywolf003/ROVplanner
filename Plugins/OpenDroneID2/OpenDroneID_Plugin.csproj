@@ -45,6 +45,9 @@
     <WarningsAsErrors>$(WarningsAsErrors)</WarningsAsErrors>
 	  <NoWarn>1701;1702;NU1605</NoWarn>
   </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="WixToolset.Util.wixext" Version="5.0.0" />
+  </ItemGroup>
 
 
   <ItemGroup>

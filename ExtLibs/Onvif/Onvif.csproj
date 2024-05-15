@@ -10,6 +10,7 @@
     <PackageReference Include="System.ServiceModel.Http" Version="4.8.1" />
     <PackageReference Include="System.ServiceModel.NetTcp" Version="4.8.1" />
     <PackageReference Include="System.ServiceModel.Security" Version="4.8.1" />
+    <PackageReference Include="WixToolset.Util.wixext" Version="5.0.0" />
   </ItemGroup>
 
   <ItemGroup>

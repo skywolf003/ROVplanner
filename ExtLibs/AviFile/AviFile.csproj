@@ -63,6 +63,7 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="System.Drawing.Common" Version="4.7.2" />
+    <PackageReference Include="WixToolset.Util.wixext" Version="5.0.0" />
   </ItemGroup>
   <PropertyGroup>
     <PreBuildEvent>

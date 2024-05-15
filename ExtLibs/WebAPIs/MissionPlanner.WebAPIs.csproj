@@ -52,6 +52,7 @@
     <PackageReference Include="RestSharp" Version="106.12.0" />
     <PackageReference Include="SuperSocket.ClientEngine.Core" Version="0.10.0"></PackageReference>
     <PackageReference Include="WebSocket4Net" Version="0.15.2" ExcludeAssets="Compile" GeneratePathProperty="true" />
+    <PackageReference Include="WixToolset.Util.wixext" Version="5.0.0" />
     <Reference Include="WebSocket4Net">
       <HintPath>$(NuGetPackageRoot)\websocket4net\0.15.2\lib\netstandard1.3\WebSocket4Net.dll</HintPath>
     </Reference>
